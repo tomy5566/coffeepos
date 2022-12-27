@@ -1,9 +1,8 @@
-# coffee店pos
-coffee pos practice
+# Coffee Shop Pos System
+Coffee Shop Pos System practice
 
-
-## 主要介紹(待修正)
-使用JavaScript創建小遊戲，練習狀態與程式碼模組化，使用MVC架構(Model(資料)、View(畫面)、Controller(控制) 三個區塊)。
+## 主要介紹
+使用JavaScrip與外部API，建立起咖啡店的點餐系統，可以將餐點加入購物車，即時算出品項與價格。
 
 ## DEMO link
 [https://tomy5566.github.io/coffeepos/](https://tomy5566.github.io/coffeepos/)
@@ -13,6 +12,8 @@ coffee pos practice
 - CSS: [flex](https://developer.mozilla.org/zh-CN/docs/Web/CSS/flex)
 - JavaScript
 - [Bootstrap](https://getbootstrap.com/)
+- [AJAX Axios](https://github.com/axios/axios)
+
 
 ## JavaScript 使用技術介紹(待修正)
 
@@ -26,10 +27,9 @@ coffee pos practice
  
 
 ## 功能介紹(待修正)
-- 將52張牌組，用13*4的方式隨機顯示於畫面上。
-- 翻開牌組，比對兩張數字是否相同，相同則得分並保留(變色)，不同則覆蓋回去。
-- 上方設計計分功能，以及翻牌次數的統計。
-
+- 將餐點資料藉由API引入，配合Bootstrap模板渲染到畫面上。
+- 點選加入購物車，可將餐點加入下方購物車欄位中，並自動計算品項價錢。
+- 送出餐點後會自動計算總價，並設置重製的按鈕。
 
 ## 介面展示(待修正)
 PC
@@ -37,7 +37,6 @@ PC
 
 RWD
 ![image](https://github.com/tomy5566/movielist/blob/main/movie_demo_mb_gif.gif)
-
 
 ## 參考資料
 ALPHA Camp 網路課程資源

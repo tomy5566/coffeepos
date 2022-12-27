@@ -32,7 +32,7 @@ Coffee Shop Pos System practice
 - 送出餐點後會自動計算總價，並設置重製的按鈕。
 
 ## 介面展示
-DEMO
+
 ![image](https://github.com/tomy5566/coffeepos/blob/main/coffeepos_demo.gif)
 
 

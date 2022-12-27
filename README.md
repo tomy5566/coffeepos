@@ -31,12 +31,10 @@ Coffee Shop Pos System practice
 - 點選加入購物車，可將餐點加入下方購物車欄位中，並自動計算品項價錢。
 - 送出餐點後會自動計算總價，並設置重製的按鈕。
 
-## 介面展示(待修正)
-PC
-![image](https://github.com/tomy5566/movielist/blob/main/movie_demo_gif.gif)
+## 介面展示
+DEMO
+![image](https://github.com/tomy5566/coffeepos/blob/main/coffeepos_demo.gif)
 
-RWD
-![image](https://github.com/tomy5566/movielist/blob/main/movie_demo_mb_gif.gif)
 
 ## 參考資料
 ALPHA Camp 網路課程資源

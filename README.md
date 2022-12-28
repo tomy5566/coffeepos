@@ -1,4 +1,4 @@
-# Coffee Shop Pos System Readme
+# 咖啡店點餐系統 Pos System Readme
 Coffee Shop Pos System practice
 
 ## 主要介紹

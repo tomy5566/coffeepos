@@ -1,4 +1,4 @@
-# Coffee Shop Pos System
+# Coffee Shop Pos System R
 Coffee Shop Pos System practice
 
 ## 主要介紹
